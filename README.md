@@ -1,1 +1,1 @@
-# Vietnamese Optical Character Recognition
+# VietOCR - Vietnamese Optical Character Recognition
